@@ -66,7 +66,7 @@ export default class Experience
         
         // console.log('update the experience')
     }
-
+ 
     destroy()
     {
         this.sizes.off('resize')
